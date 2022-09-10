@@ -1,7 +1,10 @@
 # Graph in Go
 
 Simple directed graph where vertices have int as values and edges are not weighted.  
-Implementation with an adjacency list is not done yetm and the implementation with an adjacency matrix is not started yet.
+
+Implementation with:
+- Adjacency list: `not done`
+- Adjacency matrix: `not started`
 
 For learning purposes only.  
 
