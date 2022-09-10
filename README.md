@@ -15,3 +15,8 @@ For learning purposes only.
 - `make run-tests`: unit tests not completed
 - `make example`: run example
 
+## TODO/Ideas
+
+- Add unit tests
+- Add unit interface/functions/methods (is directed/undirected, is cyclic, ...)
+- Change slice of vertices (`type Vertices []*Vertex`) to a set of vertices (`type Certices map[*Vertex]struct{}`) so we don't have duplicated vertices/edges in the graph
